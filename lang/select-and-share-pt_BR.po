@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SharedScript\n"
+"POT-Creation-Date: 2011-01-27 21:58-0300\n"
+"PO-Revision-Date: 2011-02-08 00:22-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Just click on the icon to enable or disable a social network."
+msgstr "Basta clicar no ícone para ativar ou desativar uma rede social."
+
+msgid "Options successfully updated."
+msgstr "Configurações atualizadas com sucesso."
+
+msgid "Share this content."
+msgstr "Compartilhe este conteúdo."
+
+msgid "Enter your WordPress URL."
+msgstr "Digite a url de seu WordPress."
+
+msgid "Which e-mail do you want to send this content to?"
+msgstr "Para qual e-mail deseja enviar este conteúdo?"
+
+msgid "Social Networks"
+msgstr "Redes Sociais"
+
+msgid "Stats"
+msgstr "Estatísticas"
+
+msgid "Active Stats?"
+msgstr "Estatísticas ativa?"
+
+msgid "Stats Chart"
+msgstr "Estatísticas Gráfico"
+
+msgid "Shared"
+msgstr "Compartilhado"
+
+msgid "No stats found."
+msgstr "Nenhuma estatística encontrada."
+
+msgid "Email is invalid."
+msgstr "E-mail inválido."
+
+msgid "URL is invalid."
+msgstr "URL inválida."
+
+msgid "You can follow what's being shared on your blog: what content has been shared, how many times, and in which social networks."
+msgstr "Você pode acompanhar o que está sendo compartilhado no seu blog: o conteúdo que tem sido compartilhado, quantas vezes e em quais redes sociais."
+
+msgid "Follow the stats of your shared content in the chart."
+msgstr "Acompanhe as estatísticas do que está sendo compartilhado no gráfico."
+

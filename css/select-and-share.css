@@ -1,0 +1,45 @@
+#ss_social_networks {
+  position: absolute;
+  z-index: 999999;
+  background-color: #EEEBE2;
+  border: 1px solid #D8D7D4;
+  padding: 2px;
+  text-align: center;
+  display: none;
+  font-family: "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Tahoma, Sans-Serif;
+  font-size: 12px;
+}
+
+#ss_social_networks td {
+  padding: 0 6px;
+}
+
+#ss_social_networks ul {
+  margin: 5px 0 0;
+  padding: 3px;
+  list-style: none;
+}
+
+#ss_social_networks ul li {
+  display: inline;
+  margin: 0 2px;
+  cursor: pointer;
+  padding: 0px 6px;
+}
+
+#ss_social_networks a {
+  text-decoration: none;
+  color: #DA0A0A;
+}
+
+#ss_social_networks ul li.facebook { background: url(../icons/facebook.png) no-repeat; }
+#ss_social_networks ul li.delicious { background: url(../icons/delicious.png) no-repeat; }
+#ss_social_networks ul li.google { background: url(../icons/google.png) no-repeat; }
+#ss_social_networks ul li.hotmail { background: url(../icons/hotmail.png) no-repeat; }
+#ss_social_networks ul li.linkedin { background: url(../icons/linkedin.png) no-repeat; }
+#ss_social_networks ul li.orkut { background: url(../icons/orkut.png) no-repeat; }
+#ss_social_networks ul li.twitter { background: url(../icons/twitter.png) no-repeat; }
+#ss_social_networks ul li.yahoo { background: url(../icons/yahoo.png) no-repeat; }
+#ss_social_networks ul li.myspace { background: url(../icons/myspace.png) no-repeat; }
+#ss_social_networks ul li.email { background: url(../icons/email.png) no-repeat; }
+#ss_social_networks ul li.wordpress { background: url(../icons/wordpress.png) no-repeat; }

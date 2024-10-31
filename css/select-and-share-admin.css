@@ -1,0 +1,8 @@
+.non-checked { opacity:0.4; filter:alpha(opacity=40); }
+.stats img { margin-bottom: -2px; }
+.networks img { margin: 2px }
+.zebra { margin-top: 50px; }
+.zebra td { padding: 3px; }
+.zebra tr.even { background: #E1E1E1; }
+
+#icon-select-and-share { background:transparent url(../icons/icon_32x32.png) no-repeat; }
